@@ -1,4 +1,4 @@
-# Matheus Almeida (yMat3us)
+# Plinyl Mateus (yMat3us)
 
 🖥️ Desenvolvedor de Software • Apaixonado por Tecnologia
 
@@ -41,8 +41,8 @@ A programação é mais do que minha profissão, é a minha paixão. Adoro trans
 ---
 
 ### 📫 **Contate-me**
-- **Email:** matheus.almedia.dev@example.com  
+- **Email:** mateus.sec.ee@gmail.com 
 - **GitHub:** [yMat3us](https://github.com/yMat3us)  
-- **Discord:** matheus#1234
+- **Discord:** plinyl
 
 💻 Vamos criar algo incrível juntos!
