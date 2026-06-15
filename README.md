@@ -2,7 +2,7 @@
 
 🖥️ Desenvolvedor de Software • Apaixonado por Tecnologia
 
-💡 Olá! Sou um desenvolvedor autodidata de 17 anos com uma paixão inabalável pela programação e pela criação de soluções digitais inovadoras. Minha jornada na tecnologia começou aos 14 anos e, desde então, venho aprimorando minhas habilidades em diversas linguagens e áreas de desenvolvimento.
+💡 Olá! Sou um desenvolvedor autodidata de 18 anos com uma paixão inabalável pela programação e pela criação de soluções digitais inovadoras. Minha jornada na tecnologia começou aos 14 anos e, desde então, venho aprimorando minhas habilidades em diversas linguagens e áreas de desenvolvimento.
 
 ---
 
